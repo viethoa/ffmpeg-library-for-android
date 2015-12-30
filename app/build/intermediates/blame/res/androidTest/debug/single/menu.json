@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/VietHoa/Work/MyAndroidLibraries/My-Library/FfmpegLibrary/app/build/intermediates/res/merged/androidTest/debug/menu/main.xml",
+        "source": "/Users/VietHoa/Work/MyAndroidLibraries/My-Library/FfmpegLibrary/app/build/intermediates/bundles/debug/res/menu/main.xml"
+    },
+    {
         "merged": "/Users/VietHoa/Work/MyAndroidLibraries/Android-Sample/FfmpegLibrary/app/build/intermediates/res/merged/androidTest/debug/menu/main.xml",
         "source": "/Users/VietHoa/Work/MyAndroidLibraries/Android-Sample/FfmpegLibrary/app/build/intermediates/bundles/debug/res/menu/main.xml"
     }

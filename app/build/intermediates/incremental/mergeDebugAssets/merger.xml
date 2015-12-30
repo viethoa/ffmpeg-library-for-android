@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/VietHoa/Work/MyAndroidLibraries/Android-Sample/FfmpegLibrary/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/VietHoa/Work/MyAndroidLibraries/Android-Sample/FfmpegLibrary/app/src/debug/assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/VietHoa/Work/MyAndroidLibraries/My-Library/FfmpegLibrary/app/src/main/assets"/></dataSet><dataSet config="debug"><source path="/Users/VietHoa/Work/MyAndroidLibraries/My-Library/FfmpegLibrary/app/src/debug/assets"/></dataSet></merger>
