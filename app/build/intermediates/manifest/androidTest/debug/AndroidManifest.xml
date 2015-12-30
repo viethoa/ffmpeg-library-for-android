@@ -13,10 +13,7 @@
         android:label="Tests for com.netcompss.ffmpeg4android.test"
         android:targetPackage="com.netcompss.ffmpeg4android.test" />
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
-
-    <application>
+    <application android:allowBackup="true" >
         <uses-library android:name="android.test.runner" />
     </application>
 
