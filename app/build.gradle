@@ -1,13 +1,13 @@
-apply plugin: 'com.android.library'
+apply plugin: 'com.android.application'
 apply from: '../maven_push.gradle'
 
 android {
-    compileSdkVersion 21
+    compileSdkVersion 22
     buildToolsVersion "23.0.2"
 
     defaultConfig {
         minSdkVersion 15
-        targetSdkVersion 19
+        targetSdkVersion 22
         versionName "1.0"
         versionCode 1
     }
